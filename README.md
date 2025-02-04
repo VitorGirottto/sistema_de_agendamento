@@ -70,6 +70,6 @@ O programa é estruturado em funções para melhor organização e manutenção:
 3. **Gerenciar eventos** conforme as opções disponíveis (listar, adicionar, editar, etc.).
 
 ## Link para execução online:
-Você também pode executar o código diretamente no [OnlineGDB](https://onlinegdb.com/L9hjDzF2N).
+Você também pode executar o código diretamente no [OnlineGDB](https://onlinegdb.com/3OO3Bc6Pn).
 
 ---
