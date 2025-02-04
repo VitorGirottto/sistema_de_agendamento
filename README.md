@@ -6,6 +6,7 @@ Este código implementa um sistema de gerenciamento de agenda, permitindo o cada
 ## Requisitos:
 - PHP 7.x ou superior.
 - Ambiente de execução com suporte a CLI (por exemplo, terminal ou console).
+- Arquivo `eventos.json` para armazenar os eventos cadastrados.
 
 ## Funcionalidades:
 O sistema oferece as seguintes opções:
